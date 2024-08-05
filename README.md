@@ -2,7 +2,7 @@
 
 If you have any questions or suggestions, please feel free to create an issue in this repository, I will do my best to respond.
 
-Thank you for watching, and I hope you found this resource useful! 😊
+Give me a star if you like this repo :) and shoutout to the repo that I fork and please check out the original github-repo: https://github.com/tonykipkemboi/ollama_pdf_rag
 
 ## Running the Streamlit application
 

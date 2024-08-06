@@ -17,6 +17,7 @@ Give me a star if you like this repo :) and shoutout to the repo that I fork and
 4. **Pull ollama model**: Get the nomic embed text model
       ```bash
       ollama pull nomic-embed-text
+      ollana pull llama3.1 # can be any model that the user want to test
       ```
 
 3. **Launch the App**: Run to start the Streamlit interface on `localhost`
